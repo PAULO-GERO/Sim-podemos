@@ -1,6 +1,12 @@
-@import url('https://fonts.googleapis.com/css2? family = Ma + Shan + Zheng & display = swap'); 
+@charset "UTF-8";
 
-body {
-    background-color: bisque;
-    font-family: 'Ma Shan Zheng', letra cursiva;
+@import url('https://fonts.googleapis.com/css2?family=Chango&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
+
+h1 {
+    font-family:'Chango', cursive;
+}
+
+p {
+    font-family: 'Modak', cursive;
 }
