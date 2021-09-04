@@ -2,6 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Chango&display=swap'); 
 @import url('https://fonts.googleapis.com/css2?family=Modak&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
 
 :hoot {
     --cor0:#181677;
@@ -20,14 +21,22 @@ nav {
 }
 
 nav > a {
-    font-family: 'Modak', cursive;
+    font-family: 'Alfa Slab One', cursive;
     color: rgba(0, 0, 0, 0.438);
     text-decoration: none;
     padding-right: 20px;
     padding-left: 20px;
-    font-size: 21px;  
+    font-size: 18px;  
 }
 
 nav > a:hover {
     color: black;
+}
+
+header > h1 {
+    text-align: center;
+}
+
+header > p {
+    text-align: right;
 }
