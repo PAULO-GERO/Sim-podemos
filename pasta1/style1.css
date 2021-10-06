@@ -68,3 +68,16 @@ article > h1 {
     padding-right: 60px;
     padding-left: 60px;
 }
+
+aside {
+    background-color: #3838fdd2;
+
+}
+
+aside > h1 {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Boogaloo', cursive;
+    padding: 20px 60px;
+    
+}
